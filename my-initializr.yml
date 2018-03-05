@@ -7,7 +7,7 @@ logging:
     org.springframework.jndi: debug
     root: info
 server:
-  port: 8080
+  port: 8081
   compression:
     enabled: true
     mime-types: application/json,text/css,text/html
