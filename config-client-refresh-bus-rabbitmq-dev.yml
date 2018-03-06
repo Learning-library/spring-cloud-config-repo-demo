@@ -1,5 +1,5 @@
 info:
-  profile: dev123
+  profile: dev
 
 server:
   port: 8086
