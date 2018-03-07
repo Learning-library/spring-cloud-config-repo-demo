@@ -22,7 +22,6 @@ spring:
     port: 5672
     username: springcloud
     password: 123456
-    host:
   jackson:
     serialization:
      write-dates-as-timestamps: false
