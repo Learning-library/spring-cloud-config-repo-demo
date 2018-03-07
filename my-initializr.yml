@@ -13,7 +13,16 @@ server:
     mime-types: application/json,text/css,text/html
     min-response-size: 2048
 
+management:
+  security:
+    enabled: false
 spring:
+  rabbitmq:
+    host: 118.24.24.243
+    port: 5672
+    username: springcloud
+    password: 123456
+    host:
   jackson:
     serialization:
      write-dates-as-timestamps: false
