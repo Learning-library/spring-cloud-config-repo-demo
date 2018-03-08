@@ -1,0 +1,3 @@
+POST http://config-server-git.jetbrains.org.cn/bus/refresh?destination=my-initializr:**
+
+###
