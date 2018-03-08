@@ -144,7 +144,7 @@ initializr:
           groupId: org.hswebframework.web
           artifactId: hsweb-access-logging-aop
           version: 3.0-SNAPSHOT
-          description: 日志处理()
+          description: 日志处理
           repository: nexus
           links:
             - rel: reference
