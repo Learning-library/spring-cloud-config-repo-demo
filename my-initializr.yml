@@ -170,7 +170,7 @@ initializr:
         - name: Cloud Storage
           groupId: cn.org.jetbrains
           artifactId: cloudstorage
-          version: 1.0.2
+          version: 1.0.4
           description: 常用云存储
           repository: nexus
           links:
