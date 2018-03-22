@@ -1,4 +1,4 @@
 ### 刷新my-initializr配置测试  ** 可以替换成端口号
-POST http://config-server-git.jetbrains.org.cn/bus/refresh?destination=my-initializr:**
+POST https://config-server-git.jetbrains.org.cn/bus/refresh?destination=my-initializr:**
 
 ###
