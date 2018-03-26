@@ -48,7 +48,7 @@ initializr:
     value: cn.org.jetbrains
     description: mrchang's  own spring initializr project
   description:
-    value: http://blog.jetbrains.org.cn/
+    value: 更多资源请关注博客 ：http://blog.jetbrains.org.cn/
   package-name:
     value: cn.org.jetbrains
   env:
